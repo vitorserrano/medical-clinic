@@ -4,25 +4,28 @@
 
 # Índice
 
-- [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Funcionalidades](#-funcionalidades)
-- [Como usar](#-como-usar)
-- [Como contribuir](#-como-contribuir)
+- [Sobre](#sobre)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Funcionalidades](#funcionalidades)
+- [Como usar](#como-usar)
+- [Como contribuir](#como-contribuir)
 
+<a id="sobre"></a>
 ## :bookmark: Sobre 
 
 - Este repositório é um CRUD feito em PHP com a utilização do Framework Laravel.
 
 - A idéia do projeto foi apresentada em um trabalho da faculdade, onde era necessário desenvolver um <b>software para agentamento de consultas médicas.</b>
 
-## Tecnologias Utilizadas
+<a id="tecnologias-utilizadas"></a>
+## :rocket: Tecnologias Utilizadas
 
 - [PHP](https://www.php.net/)
 - [Laravel](https://laravel.com/)
 - [Laravel/UI](https://laravel.com/docs/7.x/frontend)
 - [DOMPDF](https://github.com/barryvdh/laravel-dompdf)
 
+<a id="funcionalidades"></a>
 ## :page_facing_up: Funcionalidades
 
 - Login/Logout com Autenticação.
@@ -38,6 +41,7 @@
   - Médicos
   - Especialidades
 
+<a id="como-usar"></a>
 ## :fire: Como usar
 
 - Clone esse repositório: `git clone https://github.com/vitorserrano/medical-clinic.git`
@@ -48,6 +52,7 @@
 - Execute as migrations do Banco de Dados: `php artisan migrate`
 - Start a aplicação: `php artisan serve`
 
+<a id="como-contribuir"></a>
 ## :recycle: Como contribuir
 
 - Faça um Fork desse repositório,
