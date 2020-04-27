@@ -16,7 +16,7 @@
 
 - A idéia do projeto foi apresentada em um trabalho da faculdade, onde era necessário desenvolver um <b>software para agentamento de consultas médicas.</b>
 
-## :rocket: Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - [PHP](https://www.php.net/)
 - [Laravel](https://laravel.com/)
