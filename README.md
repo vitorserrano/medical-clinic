@@ -42,7 +42,7 @@
   - Especialidades
 
 <a id="como-usar"></a>
-## :fire: Como usar
+## :zap: Como usar
 
 - Clone esse repositório: `git clone https://github.com/vitorserrano/medical-clinic.git`
 - Instale as dependências: `composer install` 
